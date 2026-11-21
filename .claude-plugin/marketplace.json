@@ -1,0 +1,12 @@
+{
+  "name": "embiggen",
+  "owner": { "name": "Roozle" },
+  "description": "The embiggen agent skill.",
+  "plugins": [
+    {
+      "name": "embiggen",
+      "source": "./",
+      "description": "When you \"can't\", think smaller. When you are \"done\", think bigger."
+    }
+  ]
+}
