@@ -2,8 +2,8 @@
 
 > When you "can't", think smaller. When you are "done", think bigger.
 
-An agent skill. It loads when an agent is about to say it can't do something,
-or that it is done.
+An agent skill. Agents call it on their own, without a prompt, when they are
+about to say they can't do something or that they are done.
 
 ## Why
 
